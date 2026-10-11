@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_SLK-Class"
+
+generations:
+  - name: "First Generation (R170)"
+    start_year: 1996
+    end_year: 2004
+    description: "The first SLK roadster with a retractable hardtop, based on the W202 C-Class."
+  - name: "Second Generation (R171)"
+    start_year: 2004
+    end_year: 2011
+    description: "Based on the W203 C-Class, with four-cylinder, V6 and AMG V8 engines."
+  - name: "Third Generation (R172)"
+    start_year: 2011
+    end_year: 2016
+    description: "Based on the W204 C-Class; renamed the SLC-Class in 2016."
